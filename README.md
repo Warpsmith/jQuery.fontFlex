@@ -1,6 +1,6 @@
 # jQuery.fontFlex
-Lightweight jQuery extension for dynamically changing font sizes according to screen / browser width.
-Intended to be used with responsive or adaptive `CSS` layouts.
+Lightweight jQuery extension for dynamically changing font sizes according to container / browser width.
+Intended for use with responsive or adaptive `CSS` layouts.
 
 ## Installation
 Include the latest version of [jQuery](http://jquery.com/download) and `jQuery.fontFlex.js` in the `<head>` of your HTML document:
@@ -30,13 +30,13 @@ $(function() {
 `max` Maximum font-size in pixels  
 `mid` Mid-range buffer. Values ranging from 60 to 70 produce the best results. Lower values produce a larger initial font-size, while higher values produce the opposite. Adjust accordingly to fit your requirements.
 
-**Live Demo:** [http://code.nath.co/fontFlex](http://code.nath.co/fontFlex)
+**Demo:** [http://code.bynathan.com/fontFlex](http://code.bynathan.com/fontFlex)
 
 ## Browser Support
 – Google Chrome  
 – Safari ( Desktop and Mobile )  
-– Internet Explorer ( 9, 10, 11 )  
+– Internet Explorer ( 8, 9, 10+ )  
 – Firefox
 
 ## Feedback
-If you discover any issues or have questions regarding usage, please send a message to [mail@nath.co](mailto:mail@nath.co) or find me on twitter [@NathanRutzky](http://twitter.com/NathanRutzky).
+If you discover any issues or have questions regarding usage, please send a message to [mail@bynathan.com](mailto:mail@bynathan.com) or find me on twitter [@ByNathan](http://twitter.com/ByNathan).

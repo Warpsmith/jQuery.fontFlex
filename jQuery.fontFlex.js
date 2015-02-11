@@ -1,5 +1,5 @@
 // jQuery extension for dynamic font sizes
-// Source: github.com/NathanRutzky/jQuery.fontFlex
+// Source: github.com/ByNathan/jQuery.fontFlex
 // Version: 1.0
 
 (function($) {
